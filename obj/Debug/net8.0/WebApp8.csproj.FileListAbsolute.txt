@@ -114,3 +114,4 @@ C:\Users\nhalwai\source\repos\WebApp8\webazuresql1\WebApp8\obj\Debug\net8.0\refi
 C:\Users\nhalwai\source\repos\WebApp8\webazuresql1\WebApp8\obj\Debug\net8.0\WebApp8.pdb
 C:\Users\nhalwai\source\repos\WebApp8\webazuresql1\WebApp8\obj\Debug\net8.0\WebApp8.genruntimeconfig.cache
 C:\Users\nhalwai\source\repos\WebApp8\webazuresql1\WebApp8\obj\Debug\net8.0\ref\WebApp8.dll
+C:\Users\nhalwai\source\repos\WebApp8\WebApp8\obj\Debug\net8.0\WebApp8.sourcelink.json
